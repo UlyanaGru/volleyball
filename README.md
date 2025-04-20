@@ -35,4 +35,4 @@
 Вывод: 512566584534289943779149761805072000000\
 
 [Решение на Python](https://github.com/UlyanaGru/volleyball/blob/master/vollayball.cxx)\
-[Решение на C++]()
+[Решение на C++](https://github.com/UlyanaGru/volleyball/blob/master/vollayball.py)
