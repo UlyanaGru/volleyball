@@ -34,5 +34,5 @@
 Ввод: 4 6:25 25:20 33:31 25:5\
 Вывод: 512566584534289943779149761805072000000
 
-[Решение на Python](https://github.com/UlyanaGru/volleyball/blob/master/vollayball.cxx)\
-[Решение на C++](https://github.com/UlyanaGru/volleyball/blob/master/vollayball.py)
+[Решение на Python](https://github.com/UlyanaGru/volleyball/blob/master/vollayball.py)\
+[Решение на C++](https://github.com/UlyanaGru/volleyball/blob/master/vollayball.cxx)
